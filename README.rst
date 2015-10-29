@@ -1,16 +1,15 @@
 关于数控机床的学习版块
 ======================
 
-.. contents:: Table of Contents
+.. contents:: 目录
 
-Introduction
+简介
 ============
 
-This README describes how to download and build the Director source code
-and how to satisfy 3rd party dependencies.
+此文档是为大家提供一个数控机床操作的入门指导
 
 
-Background
+背景
 ----------
 
 The Director is a robotics interface and visualization framework.
