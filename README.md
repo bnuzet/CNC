@@ -4,5 +4,3 @@
 学习中用到的软件是[Cimatron](http://www.cimatron.com.cn)公司的Cimatron E11，机床则是来自[ BACCI ](http://baike.baidu.com/link?url=nwKMI3aBC_XuaexesgVZUbJSEymAYAfGR0YIy2abCV5kqWjWIYiFbys_N5ZsGiElAK8_5ZCU9jdAoe4CWcvVHK)公司的五轴数控机床。
 
 详细内容请阅读其维基版块 https://github.com/bnuzet/CNC/wiki
-
-欢迎各位老师同学参与进来，分享学习的乐趣，并不断优化之！
